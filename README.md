@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Raphael Torres 😁
+## Olá me chamo Raphael Torres seja bem vindo ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/raphaeltorress">
